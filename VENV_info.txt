@@ -1,0 +1,14 @@
+6.11.2019
+conda 4.3.21
+
+environment location
+C:\Users\pw476kz\Desktop\NLP_DnA_Training\MAP_NLP\
+
+forked from https://github.com/bsacash/introduction-to-nlp
+
+>> conda create -n C:\Users\pw476kz\Desktop\NLP_DnA_Training\MAP_NLP\ python=2.7 anaconda
+
+>> source activate C:\Users\pw476kz\Desktop\NLP_DnA_Training\MAP_NLP\
+
+>> source deactivate
+
